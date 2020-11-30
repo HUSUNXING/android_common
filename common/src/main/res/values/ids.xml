@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="qmui_click_timestamp" type="id"/>
+    <item name="qmui_click_debounce_action" type="id"/>
+
+</resources>

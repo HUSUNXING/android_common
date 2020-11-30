@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="refresh">刷新</string>
+    <string name="if_detail">&#xeb93;</string>
+    <string name="list_empty">&#xe60c;</string>
+    <string name="list_empty_desc">oop！网络被外星人劫持</string>
+    <string name="list_empty_action">刷新一下</string>
+    <string name="footer_loading_text">正在加载…</string>
+
+    <string name="pickerview_cancel">取消</string>
+    <string name="pickerview_submit">确定</string>
+    <string name="pickerview_year">年</string>
+    <string name="pickerview_month">月</string>
+    <string name="pickerview_day">日</string>
+    <string name="pickerview_hours">时</string>
+    <string name="pickerview_minutes">分</string>
+    <string name="pickerview_seconds">秒</string>
+
+</resources>
